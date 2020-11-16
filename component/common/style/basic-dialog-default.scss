@@ -1,0 +1,21 @@
+@import "nav-menu.scss";
+
+.common-basic-dialog {
+  .el-dialog.el-dialog--center {
+    .el-dialog__body {
+      text-align: left;
+      .el-dialog__sub-header-action {
+        .el-dialog__sub-header-action-button {
+          font-size: 13px;
+        }
+      }
+    }
+
+    &.is-fullscreen {
+      .el-dialog__body {
+        height: 100%;
+        max-height: 100%;
+      }
+    }
+  }
+}

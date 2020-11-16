@@ -1,0 +1,19 @@
+.scm-auto-menu-item-popper {
+  .el-menu {
+    .el-menu-item {
+      height: 30px;
+      line-height: 30px;
+    }
+    .el-submenu {
+      .el-submenu__title {
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+        padding-left: 0;
+      }
+    }
+    .el-submenu__icon-arrow {
+      right: 10px;
+    }
+  }
+}

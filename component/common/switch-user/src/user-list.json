@@ -1,0 +1,613 @@
+{
+  "admin": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00000000000000000000",
+    "employeeName": "超级管理员",
+    "id": "1",
+    "locationCode": "HQ",
+    "locationName": "总部",
+    "mobilePhone": "-test",
+    "orgId": "00030052000000000000",
+    "orgName": "总部\\中国移动通信集团有限公司\\采购共享中心",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011545",
+        "orgId": "00030052000000000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "总部",
+        "orgName": "总部\\中国移动通信集团有限公司\\采购共享中心",
+        "orgNo": "00030052000000000000",
+        "orgShortName": "采购共享中心",
+        "parentId": "00030000000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "admin"
+  },
+  "shuli1@jx.cmcc": {
+    "type":"employeeVo",
+    "addrCode":"JX",
+    "addrName":"江西",
+    "authOrgId":"00370000000000000000",
+    "dqCode":"HD00","dqName":"华东大区",
+    "employeeName":"舒丽",
+    "id":"shuli1@jx.cmcc",
+    "locationCode":"JX",
+    "locationName":"本部",
+    "mobilePhone":"18279122005",
+    "orgId":"00370054000000000000",
+    "orgName":"江西\\财务部",
+    "orgs":[
+      {
+        "orgAddrCode":"JX",
+        "orgAddrName":"江西",
+        "orgCode":"015865",
+        "orgId":"00370054000000000000",
+        "orgLocationCode":"JX",
+        "orgLocationName":"本部",
+        "orgName":"江西\\财务部",
+        "orgNo":"00370054000000000000",
+        "orgShortName":"财务部",
+        "parentId":"00370000000000000000"
+      }
+    ],
+    "positions":[],
+    "userId":"shuli1@jx.cmcc"
+  },
+  "zhanghuan6@tj.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "TJ",
+    "addrName": "天津",
+    "authOrgId": "00290000000000000000",
+    "dqCode": "HB00",
+    "dqName": "华北大区",
+    "employeeName": "张焕6",
+    "id": "zhanghuan6@tj.cmcc",
+    "locationCode": "TJ",
+    "locationName": "本部",
+    "mobilePhone": "18722696920",
+    "orgId": "00292200220700000000",
+    "orgName": "中国移动通信集团天津有限公司\\物资管理中心\\采购业务一部",
+    "orgs": [
+      {
+        "orgAddrCode": "TJ",
+        "orgAddrName": "天津",
+        "orgCode": "004245",
+        "orgId": "00292200220700000000",
+        "orgLocationCode": "TJ",
+        "orgLocationName": "本部",
+        "orgName": "中国移动通信集团天津有限公司\\物资管理中心\\采购业务一部",
+        "orgNo": "00292200220700000000",
+        "orgShortName": "采购业务一部",
+        "parentId": "00292200000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "zhanghuan6@tj.cmcc"
+  },
+  "chenxue2@cq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "CQ",
+    "addrName": "重庆",
+    "authOrgId": "00390000000000000000",
+    "dqCode": "XN00",
+    "dqName": "西南大区",
+    "employeeName": "陈雪",
+    "id": "chenxue2@cq.cmcc",
+    "locationCode": "CQ",
+    "locationName": "本部",
+    "mobilePhone": "18602602628",
+    "orgId": "00390089000400000000",
+    "orgName": "重庆\\采购部\\大区物流室",
+    "orgs": [
+      {
+        "orgAddrCode": "CQ",
+        "orgAddrName": "重庆",
+        "orgCode": "015753",
+        "orgId": "00390089000400000000",
+        "orgLocationCode": "CQ",
+        "orgLocationName": "本部",
+        "orgName": "重庆\\采购部\\大区物流室",
+        "orgNo": "00390089000400000000",
+        "orgShortName": "大区物流室",
+        "parentId": "00390089000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "chenxue2@cq.cmcc"
+  },
+  "wusibin@jx.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "JX",
+    "addrName": "江西",
+    "authOrgId": "00370000000000000000",
+    "dqCode": "HD00",
+    "dqName": "华东大区",
+    "email": "wusibin@139.com",
+    "employeeName": "吴思斌",
+    "id": "wusibin@jx.cmcc",
+    "locationCode": "JX",
+    "locationName": "本部",
+    "mobilePhone": "18909876789",
+    "orgId": "00370067000000000000",
+    "orgName": "江西\\采购物流部",
+    "orgs": [
+      {
+        "orgAddrCode": "JX",
+        "orgAddrName": "江西",
+        "orgCode": "015921",
+        "orgId": "00370067000000000000",
+        "orgLocationCode": "JX",
+        "orgLocationName": "本部",
+        "orgName": "江西\\采购物流部",
+        "orgNo": "00370067000000000000",
+        "orgShortName": "采购物流部",
+        "parentId": "00370000000000000000"
+      }
+    ],
+    "positions": [
+      {
+        "mainFlag": "0",
+        "orgId": "00370067000000000000",
+        "positionCode": "P0003",
+        "positionId": "3b577617-9ee1-49f0-aa22-9c37e1a0354a",
+        "positionName": "物料管理员"
+      },
+      {
+        "mainFlag": "0",
+        "orgId": "00370067000000000000",
+        "positionCode": "p0006",
+        "positionId": "5632080e-dd2c-4e99-b99d-91f641ce2823",
+        "positionName": "采购员"
+      },
+      {
+        "mainFlag": "0",
+        "orgId": "00370067000000000000",
+        "positionCode": "P0034",
+        "positionId": "P003400370067000000000000",
+        "positionName": "部门领导",
+        "positionSeq": ".000001.000037.000060.002080.P0004."
+      }
+    ],
+    "userId": "wusibin@jx.cmcc"
+  },
+  "345-12347@ah.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "CMPAK",
+    "addrName": "辛姆巴科公司",
+    "authOrgId": "00000000000000000000",
+    "employeeName": "余习文",
+    "id": "345-12347@ah.cmcc",
+    "locationCode": "CMPAK",
+    "locationName": "辛姆巴",
+    "mobilePhone": "13866627970-test",
+    "orgId": "00800000000000000000",
+    "orgName": "辛姆巴科公司",
+    "orgs": [
+      {
+        "orgAddrCode": "CMPAK",
+        "orgAddrName": "辛姆巴科公司",
+        "orgCode": "009714",
+        "orgId": "00800000000000000000",
+        "orgLocationCode": "CMPAK",
+        "orgLocationName": "辛姆巴",
+        "orgName": "辛姆巴科公司",
+        "orgNo": "00800000000000000000",
+        "orgShortName": "辛姆巴科公司",
+        "parentId": "00000000000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "345-12347@ah.cmcc"
+  },
+  "yangjingyuan@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "杨婧媛",
+    "id": "yangjingyuan@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "总部\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "yangjingyuan@hq.cmcc"
+  },
+  "zhouyinan@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "周轶南",
+    "id": "zhouyinan@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "总部\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "zhouyinan@hq.cmcc"
+  },
+  "zhangbo@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "张博",
+    "id": "zhangbo@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "总部\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "zhangbo@hq.cmcc"
+  },
+  "lifan@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "李凡",
+    "id": "lifan@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "总部\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "lifan@hq.cmcc"
+  },
+  "huangtaocg@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "采购",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "黄涛",
+    "id": "huangtaocg@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "采购",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "采购\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "huangtaocg@hq.cmcc"
+  },
+  "maoshuocg@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "采购",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "毛硕",
+    "id": "maoshuocg@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "采购",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "采购\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "maoshuocg@hq.cmcc"
+  },
+  "jinzhaori@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "金兆日",
+    "id": "jinzhaori@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "jinzhaori@hq.cmcc"
+  },
+  "dinghongqing@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "丁宏庆",
+    "id": "dinghongqing@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "dinghongqing@hq.cmcc"
+  },
+  "liuhan@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "刘涵",
+    "id": "liuhan@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "liuhan@hq.cmcc"
+  },
+  "pengyayi@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "彭雅奕",
+    "id": "pengyayi@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "pengyayi@hq.cmcc"
+  },
+  "mahui@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "马辉",
+    "id": "mahui@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030039001500000000",
+    "orgName": "总部\\政企分公司\\计划采购部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "mahui@hq.cmcc"
+  },
+  "wuhan@tj.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "TJ",
+    "addrName": "天津",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "武晗",
+    "id": "wuhan@tj.cmcc",
+    "locationCode": "TJ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "TJ",
+        "orgAddrName": "天津",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "TJ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "天津\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "wuhan@tj.cmcc"
+  },
+  "chengdapeng@hl.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HL",
+    "addrName": "黑龙江",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "程大鹏",
+    "id": "chengdapeng@hl.cmcc",
+    "locationCode": "HL",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HL",
+        "orgAddrName": "黑龙江",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HL",
+        "orgLocationName": "采购共享中心",
+        "orgName": "黑龙江\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "chengdapeng@hl.cmcc"
+  },
+  "yuli@hq.cmcc": {
+    "type": "employeeVo",
+    "addrCode": "HQ",
+    "addrName": "总部",
+    "authOrgId": "00030000000000000000",
+    "employeeName": "余力",
+    "id": "yuli@hq.cmcc",
+    "locationCode": "HQ",
+    "locationName": "采购共享中心",
+    "mobilePhone": "13810781746-test",
+    "orgId": "00030052000300000000",
+    "orgName": "采购\\采购共享中心\\采购二部",
+    "orgs": [
+      {
+        "orgAddrCode": "HQ",
+        "orgAddrName": "总部",
+        "orgCode": "011556",
+        "orgId": "00030052000300000000",
+        "orgLocationCode": "HQ",
+        "orgLocationName": "采购共享中心",
+        "orgName": "总部\\采购共享中心\\采购二部",
+        "orgNo": "00030052000300000000",
+        "orgShortName": "采购二部",
+        "parentId": "00030052000000000000"
+      }
+    ],
+    "positions": [],
+    "userId": "yuli@hq.cmcc"
+  }
+}
